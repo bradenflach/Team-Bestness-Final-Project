@@ -1,11 +1,11 @@
 '''
-                    Group Bestness
+                    Group Bestness (Canvas Group 26)
 Group members: 
-  Braden Flach - brf84@pitt.edu
-  Carlton Gbur - cmg179@pitt.edu
+  Braden Flach - brf84@pitt.edu (BRF84-Final-Notes)
+  Carlton Gbur - cmg179@pitt.edu (FinalProject)
   
 Overview:
-This repository contains data showing the "best" neighborhood in the greater pittsburgh area by the metric of safety. Using data like arrests, income, home value, college degrees, this repository contains the information to discover the safest, wealthiest, and most educated area to live in.
+This repository contains data showing the "best" neighborhood in the greater Pittsburgh area by the metric of safety. Using data like arrests, income, home value, and college degrees, this repository contains the information to discover the safest, wealthiest, and most educated area to live in.
 
 References:
 Very specific and large dataset by neighborhood(income, crime, population, size, profession, etc) https://data.wprdc.org/dataset/neighborhoods-with-snap-data/resource/bce22c26-9d3e-4e3f-8405-a35c4b7765b6 
